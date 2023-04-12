@@ -15,6 +15,7 @@ This project aims to achieve the follwing goals:
 
 ### The Data:
 A brief history of water consumption in the New York City Water Supply System (Based on New York City Census population). [1]
+
 [1]: https://data.cityofnewyork.us/Environment/Water-Consumption-in-the-City-of-New-York/ia2d-e54m
 
 ## Getting Started:
